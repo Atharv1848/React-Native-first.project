@@ -19,7 +19,6 @@ A simple React Native Project using following
 # In order to build the app with expo and create expo build
   set the eas.json in project root like this
   
-  #eas.json
   {
     "build": {
       "preview": {
@@ -40,8 +39,8 @@ A simple React Native Project using following
   }
   
  # Then Run
-  i) Install eas cli - npm install -g eas-cli
-  ii) expo login (Enter Expo username and password)
-  i)  expo build:configure
-  ii) eas build -p android --profile preview
+ 1. Install eas cli - npm install -g eas-cli
+ 2. expo login (Enter Expo username and password)
+ 3. expo build:configure
+ 4. eas build -p android --profile preview
 
