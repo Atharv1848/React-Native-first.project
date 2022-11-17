@@ -12,7 +12,8 @@ A simple React Native Project using following
 
 # In order to run the app do npm install
 
-#In order to run the app with tunnel expo start --tunnel
+#In order to run the app with tunnel 
+# expo start --tunnel
 
 
 # Build the Project
