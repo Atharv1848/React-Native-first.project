@@ -14,6 +14,8 @@ A simple React Native Project using following
 
 #In order to run the app with tunnel expo start --tunnel
 
+
+# Build the Project
 # In order to build the app with expo and create expo build
   set the eas.json in project root like this
   
@@ -36,7 +38,8 @@ A simple React Native Project using following
       "production": {}
     }
   }
-  Then Run
+  
+ # Then Run
   i) Install eas cli - npm install -g eas-cli
   ii) expo login (Enter Expo username and password)
   i)  expo build:configure
